@@ -1,0 +1,33 @@
+{
+  "frequency_over_f0": 1.0,
+  "rows": [
+    {
+      "branch_angle_deg": 0.0,
+      "case_id": "complete",
+      "sigma_re_S_m": 0.20670506748549705,
+      "sigma_im_S_m": 0.003684358758082905,
+      "electrode_mismatch": 0.0005246111081057351
+    },
+    {
+      "branch_angle_deg": 0.0,
+      "case_id": "branch_deleted",
+      "sigma_re_S_m": 0.20406364765774668,
+      "sigma_im_S_m": 0.003479161884608779,
+      "electrode_mismatch": 0.00045800660552629865
+    },
+    {
+      "branch_angle_deg": 90.0,
+      "case_id": "complete",
+      "sigma_re_S_m": 0.20616736960633358,
+      "sigma_im_S_m": 0.0031898241256060013,
+      "electrode_mismatch": 0.00012879966020045957
+    },
+    {
+      "branch_angle_deg": 90.0,
+      "case_id": "branch_deleted",
+      "sigma_re_S_m": 0.20615288131446652,
+      "sigma_im_S_m": 0.0031931540288877005,
+      "electrode_mismatch": 0.00012692395273836013
+    }
+  ]
+}

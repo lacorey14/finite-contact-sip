@@ -1,0 +1,554 @@
+{
+  "network": "four-particle T",
+  "contacts": [
+    [
+      0,
+      1,
+      0.02
+    ],
+    [
+      1,
+      2,
+      0.02
+    ],
+    [
+      1,
+      3,
+      0.02
+    ]
+  ],
+  "geometry_modal_data": {
+    "0.0": {
+      "bLb_W": 0.0225,
+      "b2_V2": 1.125,
+      "eigenvalues_S": [
+        -1.1217831568265748e-17,
+        0.019999999999999993,
+        0.020000000000000004,
+        0.07999999999999997
+      ],
+      "modal_weights_V2": [
+        1.1093356479670479e-31,
+        1.1014644932297306,
+        0.02353550677026923,
+        9.437056727497456e-33
+      ]
+    },
+    "22.5": {
+      "bLb_W": 0.020852475644174327,
+      "b2_V2": 1.0220297277608954,
+      "eigenvalues_S": [
+        -1.1217831568265748e-17,
+        0.019999999999999993,
+        0.020000000000000004,
+        0.07999999999999997
+      ],
+      "modal_weights_V2": [
+        1.7013699194498075e-31,
+        0.8755764751430984,
+        0.1395885678018565,
+        0.006864684815940314
+      ]
+    },
+    "45.0": {
+      "bLb_W": 0.016874999999999994,
+      "b2_V2": 0.7734374999999997,
+      "eigenvalues_S": [
+        -1.1217831568265748e-17,
+        0.019999999999999993,
+        0.020000000000000004,
+        0.07999999999999997
+      ],
+      "modal_weights_V2": [
+        3.3465846626462433e-32,
+        0.46169691042136923,
+        0.2883030895786302,
+        0.023437500000000038
+      ]
+    },
+    "67.5": {
+      "bLb_W": 0.012897524355825668,
+      "b2_V2": 0.5248452722391042,
+      "eigenvalues_S": [
+        -1.1217831568265748e-17,
+        0.019999999999999993,
+        0.020000000000000004,
+        0.07999999999999997
+      ],
+      "modal_weights_V2": [
+        1.1845521996146142e-32,
+        0.10227083488945857,
+        0.3825641221655858,
+        0.040010315184059765
+      ]
+    },
+    "90.0": {
+      "bLb_W": 0.01125,
+      "b2_V2": 0.421875,
+      "eigenvalues_S": [
+        -1.1217831568265748e-17,
+        0.019999999999999993,
+        0.020000000000000004,
+        0.07999999999999997
+      ],
+      "modal_weights_V2": [
+        3.9000081373841526e-33,
+        0.007845168923423077,
+        0.3671548310765768,
+        0.04687500000000004
+      ]
+    }
+  },
+  "rows": [
+    {
+      "angle_deg": 0.0,
+      "case_id": "disconnected",
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.19865706195479416,
+      "sigma_im_S_m": 0.0003823093045898458,
+      "electrode_mismatch": 0.0002538553428712601
+    },
+    {
+      "angle_deg": 0.0,
+      "case_id": "disconnected",
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.19891895666023196,
+      "sigma_im_S_m": 0.0011410538917474263,
+      "electrode_mismatch": 0.0002857991958218999
+    },
+    {
+      "angle_deg": 0.0,
+      "case_id": "disconnected",
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20049889194282502,
+      "sigma_im_S_m": 0.0023223311321529444,
+      "electrode_mismatch": 0.00043147845120938117
+    },
+    {
+      "angle_deg": 0.0,
+      "case_id": "disconnected",
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.20275299669604388,
+      "sigma_im_S_m": 0.0016377601368706659,
+      "electrode_mismatch": 0.0005779286223395724
+    },
+    {
+      "angle_deg": 0.0,
+      "case_id": "disconnected",
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.2033374420763298,
+      "sigma_im_S_m": 0.0005970608099041704,
+      "electrode_mismatch": 0.000609759802768794
+    },
+    {
+      "angle_deg": 0.0,
+      "case_id": "T_contact",
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.1997540526482064,
+      "sigma_im_S_m": 0.0026549944007271506,
+      "electrode_mismatch": 0.00043294322089814844
+    },
+    {
+      "angle_deg": 0.0,
+      "case_id": "T_contact",
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.20306355080873745,
+      "sigma_im_S_m": 0.003740126665372225,
+      "electrode_mismatch": 0.0007562290972120004
+    },
+    {
+      "angle_deg": 0.0,
+      "case_id": "T_contact",
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20596409464104917,
+      "sigma_im_S_m": 0.0030885039472360208,
+      "electrode_mismatch": 0.0010714177567197698
+    },
+    {
+      "angle_deg": 0.0,
+      "case_id": "T_contact",
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.20798641428553322,
+      "sigma_im_S_m": 0.001705461718609455,
+      "electrode_mismatch": 0.0013223622528687337
+    },
+    {
+      "angle_deg": 0.0,
+      "case_id": "T_contact",
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20847172274012676,
+      "sigma_im_S_m": 0.0006020136349131604,
+      "electrode_mismatch": 0.0013769748282477102
+    },
+    {
+      "angle_deg": 22.5,
+      "case_id": "disconnected",
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.19866635983375164,
+      "sigma_im_S_m": 0.0003812907815858419,
+      "electrode_mismatch": 1.2779414135139726e-05
+    },
+    {
+      "angle_deg": 22.5,
+      "case_id": "disconnected",
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.1989307252850413,
+      "sigma_im_S_m": 0.0011361931376312356,
+      "electrode_mismatch": 1.4459104708690342e-05
+    },
+    {
+      "angle_deg": 22.5,
+      "case_id": "disconnected",
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20050767417141457,
+      "sigma_im_S_m": 0.0022913925961870235,
+      "electrode_mismatch": 2.2607959061023942e-05
+    },
+    {
+      "angle_deg": 22.5,
+      "case_id": "disconnected",
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.20271086898278134,
+      "sigma_im_S_m": 0.001597494585622478,
+      "electrode_mismatch": 3.204928394442363e-05
+    },
+    {
+      "angle_deg": 22.5,
+      "case_id": "disconnected",
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20327489180208902,
+      "sigma_im_S_m": 0.0005811292285972049,
+      "electrode_mismatch": 3.429894175183195e-05
+    },
+    {
+      "angle_deg": 22.5,
+      "case_id": "T_contact",
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.19965245042081525,
+      "sigma_im_S_m": 0.0024312005157860273,
+      "electrode_mismatch": 4.603140365739105e-05
+    },
+    {
+      "angle_deg": 22.5,
+      "case_id": "T_contact",
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.2026690570316004,
+      "sigma_im_S_m": 0.003493611882602616,
+      "electrode_mismatch": 8.507168090874004e-05
+    },
+    {
+      "angle_deg": 22.5,
+      "case_id": "T_contact",
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20545561625296171,
+      "sigma_im_S_m": 0.0029824041113099588,
+      "electrode_mismatch": 0.00010544583173836657
+    },
+    {
+      "angle_deg": 22.5,
+      "case_id": "T_contact",
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.20743646694724016,
+      "sigma_im_S_m": 0.0016511464067418677,
+      "electrode_mismatch": 0.00012062165993831342
+    },
+    {
+      "angle_deg": 22.5,
+      "case_id": "T_contact",
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20790667610697827,
+      "sigma_im_S_m": 0.0005825752748988408,
+      "electrode_mismatch": 0.0001244915992224952
+    },
+    {
+      "angle_deg": 45.0,
+      "case_id": "disconnected",
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.19864859971453788,
+      "sigma_im_S_m": 0.0003910016677955139,
+      "electrode_mismatch": 2.7199379089113533e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "case_id": "disconnected",
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.1989288408563491,
+      "sigma_im_S_m": 0.00115986016276188,
+      "electrode_mismatch": 3.0943192336647414e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "case_id": "disconnected",
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20054943088648172,
+      "sigma_im_S_m": 0.0022785184842171353,
+      "electrode_mismatch": 4.866431533115731e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "case_id": "disconnected",
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.20267998543469234,
+      "sigma_im_S_m": 0.0015336490171361772,
+      "electrode_mismatch": 6.616525816038768e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "case_id": "disconnected",
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.2032019086526185,
+      "sigma_im_S_m": 0.0005525415724445869,
+      "electrode_mismatch": 6.961626378541736e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "case_id": "T_contact",
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.19939411272942098,
+      "sigma_im_S_m": 0.0019635720263917857,
+      "electrode_mismatch": 3.189624365945369e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "case_id": "T_contact",
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.20179606031475977,
+      "sigma_im_S_m": 0.003008286462133756,
+      "electrode_mismatch": 4.957218383385916e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "case_id": "T_contact",
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.204398684274159,
+      "sigma_im_S_m": 0.002816947340752202,
+      "electrode_mismatch": 8.20915610474862e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "case_id": "T_contact",
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.20633336864002308,
+      "sigma_im_S_m": 0.0015636335735319693,
+      "electrode_mismatch": 0.0001097203886725815
+    },
+    {
+      "angle_deg": 45.0,
+      "case_id": "T_contact",
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20677609097459837,
+      "sigma_im_S_m": 0.0005491919701945676,
+      "electrode_mismatch": 0.00011534135620712377
+    },
+    {
+      "angle_deg": 67.5,
+      "case_id": "disconnected",
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.19863428319875648,
+      "sigma_im_S_m": 0.0003993637539788476,
+      "electrode_mismatch": 4.215739324346462e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "case_id": "disconnected",
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.1989286786600939,
+      "sigma_im_S_m": 0.00117989946498486,
+      "electrode_mismatch": 4.7237876305007855e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "case_id": "disconnected",
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20058628473759368,
+      "sigma_im_S_m": 0.0022638099472792475,
+      "electrode_mismatch": 6.915726202348047e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "case_id": "disconnected",
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.20264882111572763,
+      "sigma_im_S_m": 0.001475457935350239,
+      "electrode_mismatch": 8.832458210940647e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "case_id": "disconnected",
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20313365359412855,
+      "sigma_im_S_m": 0.0005275082881094706,
+      "electrode_mismatch": 9.199494776362735e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "case_id": "T_contact",
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.19913306502152855,
+      "sigma_im_S_m": 0.001490731578049896,
+      "electrode_mismatch": 4.57045576853771e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "case_id": "T_contact",
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.20091691280941232,
+      "sigma_im_S_m": 0.0025271183522002673,
+      "electrode_mismatch": 6.6030729851881e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "case_id": "T_contact",
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20334233683268788,
+      "sigma_im_S_m": 0.0026600109852878626,
+      "electrode_mismatch": 0.00010594622034008341
+    },
+    {
+      "angle_deg": 67.5,
+      "case_id": "T_contact",
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.20524161730649038,
+      "sigma_im_S_m": 0.001486203206094919,
+      "electrode_mismatch": 0.00013252218197697832
+    },
+    {
+      "angle_deg": 67.5,
+      "case_id": "T_contact",
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20566253966390874,
+      "sigma_im_S_m": 0.0005207539692685027,
+      "electrode_mismatch": 0.0001377848215330317
+    },
+    {
+      "angle_deg": 90.0,
+      "case_id": "disconnected",
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.1986119679484446,
+      "sigma_im_S_m": 0.00040711969482409215,
+      "electrode_mismatch": 0.00019759480951382985
+    },
+    {
+      "angle_deg": 90.0,
+      "case_id": "disconnected",
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.19891447465562545,
+      "sigma_im_S_m": 0.0012014462393690325,
+      "electrode_mismatch": 0.00022282795698683536
+    },
+    {
+      "angle_deg": 90.0,
+      "case_id": "disconnected",
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20060530012576283,
+      "sigma_im_S_m": 0.0022890667398536325,
+      "electrode_mismatch": 0.00033780592822881445
+    },
+    {
+      "angle_deg": 90.0,
+      "case_id": "disconnected",
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.20267379580995307,
+      "sigma_im_S_m": 0.0014765871866779332,
+      "electrode_mismatch": 0.0004512622235650379
+    },
+    {
+      "angle_deg": 90.0,
+      "case_id": "disconnected",
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20315331824944782,
+      "sigma_im_S_m": 0.0005266273342582884,
+      "electrode_mismatch": 0.00047565213835619295
+    },
+    {
+      "angle_deg": 90.0,
+      "case_id": "T_contact",
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.199017387267602,
+      "sigma_im_S_m": 0.0013211822795184418,
+      "electrode_mismatch": 0.0002961222238922007
+    },
+    {
+      "angle_deg": 90.0,
+      "case_id": "T_contact",
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.20057834961780013,
+      "sigma_im_S_m": 0.0023715494700769727,
+      "electrode_mismatch": 0.0005063218779172689
+    },
+    {
+      "angle_deg": 90.0,
+      "case_id": "T_contact",
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20296840594847532,
+      "sigma_im_S_m": 0.002638416356659086,
+      "electrode_mismatch": 0.000741345532404952
+    },
+    {
+      "angle_deg": 90.0,
+      "case_id": "T_contact",
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.2048861250845717,
+      "sigma_im_S_m": 0.0014808896361703646,
+      "electrode_mismatch": 0.0009350336907768094
+    },
+    {
+      "angle_deg": 90.0,
+      "case_id": "T_contact",
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20530659176019672,
+      "sigma_im_S_m": 0.0005185290467960787,
+      "electrode_mismatch": 0.0009769597177736887
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# FEM_IP — continuum surface-capacitance IP (Plan D)
+
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+scikit-fem>=10.0
+meshio>=5.3
+gmsh>=4.11

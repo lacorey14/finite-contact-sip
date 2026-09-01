@@ -1,0 +1,133 @@
+{
+  "interpretation": "contrast is the SIP change caused only by deleting edge (1,3)",
+  "frequency_metrics": [
+    {
+      "frequency_over_f0": 0.1,
+      "perpendicular_over_parallel_contrast": 0.008560808556349579,
+      "parallel_contrast_over_total_contact_effect": 0.5736427744506712,
+      "perpendicular_contrast_over_total_contact_effect": 0.004539033568272505,
+      "held_out_60deg_tensor_relative_error": 0.02827355755947281
+    },
+    {
+      "frequency_over_f0": 1.0,
+      "perpendicular_over_parallel_contrast": 0.005109428777176347,
+      "parallel_contrast_over_total_contact_effect": 0.42468648661506825,
+      "perpendicular_contrast_over_total_contact_effect": 0.0023806913835531392,
+      "held_out_60deg_tensor_relative_error": 0.03406622076752488
+    },
+    {
+      "frequency_over_f0": 10.0,
+      "perpendicular_over_parallel_contrast": 0.004120984475572839,
+      "parallel_contrast_over_total_contact_effect": 0.39328621125338703,
+      "perpendicular_contrast_over_total_contact_effect": 0.0018300532842899424,
+      "held_out_60deg_tensor_relative_error": 0.039701622059985966
+    }
+  ],
+  "perpendicular_suppression_range": [
+    0.004120984475572839,
+    0.008560808556349579
+  ],
+  "tensor_holdout_error_range": [
+    0.02827355755947281,
+    0.039701622059985966
+  ],
+  "max_electrode_mismatch": 0.0006357956888878588,
+  "rows": [
+    {
+      "frequency_over_f0": 0.1,
+      "branch_angle_deg": 0.0,
+      "contrast_abs": 0.0013398528149535557,
+      "contrast_over_parallel": 1.0,
+      "cos2_angle": 1.0,
+      "contrast_over_total_contact_effect": 0.5736427744506712
+    },
+    {
+      "frequency_over_f0": 0.1,
+      "branch_angle_deg": 30.0,
+      "contrast_abs": 0.0008901028502835373,
+      "contrast_over_parallel": 0.6643288280245854,
+      "cos2_angle": 0.7500000000000001,
+      "contrast_over_total_contact_effect": 0.4069606311898745
+    },
+    {
+      "frequency_over_f0": 0.1,
+      "branch_angle_deg": 60.0,
+      "contrast_abs": 0.00023239648899308761,
+      "contrast_over_parallel": 0.17344926726234727,
+      "cos2_angle": 0.2500000000000001,
+      "contrast_over_total_contact_effect": 0.10045390868831984
+    },
+    {
+      "frequency_over_f0": 0.1,
+      "branch_angle_deg": 90.0,
+      "contrast_abs": 1.1470223442503468e-05,
+      "contrast_over_parallel": 0.008560808556349579,
+      "cos2_angle": 3.749399456654644e-33,
+      "contrast_over_total_contact_effect": 0.004539033568272505
+    },
+    {
+      "frequency_over_f0": 1.0,
+      "branch_angle_deg": 0.0,
+      "contrast_abs": 0.0026520691676502413,
+      "contrast_over_parallel": 1.0,
+      "cos2_angle": 1.0,
+      "contrast_over_total_contact_effect": 0.42468648661506825
+    },
+    {
+      "frequency_over_f0": 1.0,
+      "branch_angle_deg": 30.0,
+      "contrast_abs": 0.0018016999597576257,
+      "contrast_over_parallel": 0.6793563236338777,
+      "cos2_angle": 0.7500000000000001,
+      "contrast_over_total_contact_effect": 0.29826386944224526
+    },
+    {
+      "frequency_over_f0": 1.0,
+      "branch_angle_deg": 60.0,
+      "contrast_abs": 0.000499217043781496,
+      "contrast_over_parallel": 0.18823681141914075,
+      "cos2_angle": 0.2500000000000001,
+      "contrast_over_total_contact_effect": 0.08518202755493672
+    },
+    {
+      "frequency_over_f0": 1.0,
+      "branch_angle_deg": 90.0,
+      "contrast_abs": 1.3550558524254263e-05,
+      "contrast_over_parallel": 0.005109428777176347,
+      "cos2_angle": 3.749399456654644e-33,
+      "contrast_over_total_contact_effect": 0.0023806913835531392
+    },
+    {
+      "frequency_over_f0": 10.0,
+      "branch_angle_deg": 0.0,
+      "contrast_abs": 0.0023764503799805184,
+      "contrast_over_parallel": 1.0,
+      "cos2_angle": 1.0,
+      "contrast_over_total_contact_effect": 0.39328621125338703
+    },
+    {
+      "frequency_over_f0": 10.0,
+      "branch_angle_deg": 30.0,
+      "contrast_abs": 0.0016215033636821133,
+      "contrast_over_parallel": 0.6823215739498866,
+      "cos2_angle": 0.7500000000000001,
+      "contrast_over_total_contact_effect": 0.27944004568895026
+    },
+    {
+      "frequency_over_f0": 10.0,
+      "branch_angle_deg": 60.0,
+      "contrast_abs": 0.0004562737818435719,
+      "contrast_over_parallel": 0.19199802600015253,
+      "cos2_angle": 0.2500000000000001,
+      "contrast_over_total_contact_effect": 0.08198651958861689
+    },
+    {
+      "frequency_over_f0": 10.0,
+      "branch_angle_deg": 90.0,
+      "contrast_abs": 9.793315122868891e-06,
+      "contrast_over_parallel": 0.004120984475572839,
+      "cos2_angle": 3.749399456654644e-33,
+      "contrast_over_total_contact_effect": 0.0018300532842899424
+    }
+  ]
+}

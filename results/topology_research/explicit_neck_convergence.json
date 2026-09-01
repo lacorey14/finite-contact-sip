@@ -1,0 +1,50 @@
+{
+  "rows": [
+    {
+      "radius_over_h": 2.5,
+      "analytic_S": 0.019634954084936207,
+      "conductance_energy_S": 0.01924676894523757,
+      "conductance_left_S": 0.01924676894523758,
+      "conductance_right_S": 0.019246768945237587,
+      "terminal_mismatch": 3.60522533608125e-16,
+      "nodes": 318,
+      "elements": 1058,
+      "relative_error": 0.01977010682171394
+    },
+    {
+      "radius_over_h": 4.0,
+      "analytic_S": 0.019634954084936207,
+      "conductance_energy_S": 0.01949075802970343,
+      "conductance_left_S": 0.019490758029703365,
+      "conductance_right_S": 0.01949075802970363,
+      "terminal_mismatch": 1.352835882250634e-14,
+      "nodes": 997,
+      "elements": 3956,
+      "relative_error": 0.007343844788687439
+    },
+    {
+      "radius_over_h": 6.0,
+      "analytic_S": 0.019634954084936207,
+      "conductance_energy_S": 0.019568133842542176,
+      "conductance_left_S": 0.019568133842542204,
+      "conductance_right_S": 0.01956813384254195,
+      "terminal_mismatch": 1.2942962754168823e-14,
+      "nodes": 2831,
+      "elements": 13110,
+      "relative_error": 0.0034031270001947506
+    },
+    {
+      "radius_over_h": 8.0,
+      "analytic_S": 0.019634954084936207,
+      "conductance_energy_S": 0.01959774464706624,
+      "conductance_left_S": 0.019597744647066012,
+      "conductance_right_S": 0.0195977446470665,
+      "terminal_mismatch": 2.4961648854767124e-14,
+      "nodes": 6110,
+      "elements": 30178,
+      "relative_error": 0.0018950611093362648
+    }
+  ],
+  "finest_relative_error": 0.0018950611093362648,
+  "finest_terminal_mismatch": 2.4961648854767124e-14
+}

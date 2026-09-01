@@ -1,0 +1,25 @@
+{
+  "rows": [
+    {
+      "network": 0,
+      "base_ratio": 0.044642905385163044,
+      "fine_ratio": 0.04490209376402216,
+      "parallel_relative_change": 0.03058029518253549,
+      "perpendicular_relative_change": 0.024631476016188678,
+      "fine_suppression_factor": 22.270676402204895,
+      "max_fine_electrode_mismatch": 0.0003617496606011637
+    },
+    {
+      "network": 5,
+      "base_ratio": 0.001941318281823472,
+      "fine_ratio": 0.0019994292566189757,
+      "parallel_relative_change": 0.012604023800355186,
+      "perpendicular_relative_change": 0.016826078170040188,
+      "fine_suppression_factor": 500.14272657538015,
+      "max_fine_electrode_mismatch": 0.00031846117128246545
+    }
+  ],
+  "minimum_fine_suppression_factor": 22.270676402204895,
+  "max_parallel_relative_change": 0.03058029518253549,
+  "max_fine_electrode_mismatch": 0.0003617496606011637
+}

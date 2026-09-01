@@ -1,0 +1,313 @@
+{
+  "hypothesis": "Delta sigma(theta,omega) = Delta sigma(0,omega) cos^2(theta)",
+  "angles_deg": [
+    0,
+    22.5,
+    45,
+    67.5,
+    90
+  ],
+  "median_relative_l2_error": 0.006000357435149426,
+  "max_relative_l2_error": 0.007021653913894518,
+  "median_correlation": 0.9999813834778333,
+  "max_electrode_mismatch": 0.0007899712447162855,
+  "by_frequency": {
+    "0.1": {
+      "relative_l2_error_cos2": 0.00315537574665239,
+      "corr_cos2_vs_abs_delta": 0.9999961583295075
+    },
+    "0.31622777": {
+      "relative_l2_error_cos2": 0.0052498943334805676,
+      "corr_cos2_vs_abs_delta": 0.9999880711569725
+    },
+    "1.0": {
+      "relative_l2_error_cos2": 0.006000357435149426,
+      "corr_cos2_vs_abs_delta": 0.9999813834778333
+    },
+    "3.16227766": {
+      "relative_l2_error_cos2": 0.006751681563749522,
+      "corr_cos2_vs_abs_delta": 0.9999753593764318
+    },
+    "10.0": {
+      "relative_l2_error_cos2": 0.007021653913894518,
+      "corr_cos2_vs_abs_delta": 0.9999728574305924
+    }
+  },
+  "rows": [
+    {
+      "angle_deg": 0.0,
+      "frequency_over_f0": 0.1,
+      "cos2": 1.0,
+      "delta_re": 0.0013298275456576636,
+      "delta_im": 0.0027837132024563288,
+      "prediction_re": 0.0013298275456576636,
+      "prediction_im": 0.0027837132024563288,
+      "prediction_error": 0.0,
+      "electrode_mismatch": 0.0007899712447162855
+    },
+    {
+      "angle_deg": 22.5,
+      "frequency_over_f0": 0.1,
+      "cos2": 0.8535533905932737,
+      "delta_re": 0.0011370417645148734,
+      "delta_im": 0.002371567547367983,
+      "prediction_re": 0.0011350788105004303,
+      "prediction_im": 0.0023760478423958597,
+      "prediction_error": 4.891444776304177e-06,
+      "electrode_mismatch": 4.2629793423383886e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "frequency_over_f0": 0.1,
+      "cos2": 0.5000000000000001,
+      "delta_re": 0.0006702130605613366,
+      "delta_im": 0.0013862627972491774,
+      "prediction_re": 0.0006649137728288319,
+      "prediction_im": 0.0013918566012281646,
+      "prediction_error": 7.705393787938936e-06,
+      "electrode_mismatch": 3.138551284401221e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "frequency_over_f0": 0.1,
+      "cos2": 0.1464466094067263,
+      "delta_re": 0.00019386404588114803,
+      "delta_im": 0.0003974134941080247,
+      "prediction_re": 0.00019474873515723333,
+      "prediction_im": 0.00040766536006046916,
+      "prediction_error": 1.0289967474298e-05,
+      "electrode_mismatch": 5.1560018849427045e-05
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_over_f0": 0.1,
+      "cos2": 3.749399456654644e-33,
+      "delta_re": -1.5281079179807477e-10,
+      "delta_im": -3.6374840222145807e-10,
+      "prediction_re": 4.9860546771332226e-36,
+      "prediction_im": 1.0437252768772119e-35,
+      "prediction_error": 3.945428217679523e-10,
+      "electrode_mismatch": 0.00020536291596933936
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_over_f0": 0.31622777,
+      "cos2": 1.0,
+      "delta_re": 0.005050580210817113,
+      "delta_im": 0.0032426029979804967,
+      "prediction_re": 0.005050580210817113,
+      "prediction_im": 0.0032426029979804967,
+      "prediction_error": 0.0,
+      "electrode_mismatch": 0.0007899712447162855
+    },
+    {
+      "angle_deg": 22.5,
+      "frequency_over_f0": 0.31622777,
+      "cos2": 0.8535533905932737,
+      "delta_re": 0.004302535911080763,
+      "delta_im": 0.0027520235678080976,
+      "prediction_re": 0.004310939863406238,
+      "prediction_im": 0.0027677347832741673,
+      "prediction_error": 1.7817651531841345e-05,
+      "electrode_mismatch": 8.13149519356043e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "frequency_over_f0": 0.31622777,
+      "cos2": 0.5000000000000001,
+      "delta_re": 0.002514465826960466,
+      "delta_im": 0.001594790516587357,
+      "prediction_re": 0.002525290105408557,
+      "prediction_im": 0.0016213014989902488,
+      "prediction_error": 2.8635593094752516e-05,
+      "electrode_mismatch": 3.6177133362296645e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "frequency_over_f0": 0.31622777,
+      "cos2": 0.1464466094067263,
+      "delta_re": 0.0007205311257293401,
+      "delta_im": 0.0004531084749574393,
+      "prediction_re": 0.0007396403474108751,
+      "prediction_im": 0.0004748682147063295,
+      "prediction_error": 2.895943071286936e-05,
+      "electrode_mismatch": 5.772795448333889e-05
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_over_f0": 0.31622777,
+      "cos2": 3.749399456654644e-33,
+      "delta_re": -5.898917465607667e-10,
+      "delta_im": -5.367504448718086e-10,
+      "prediction_re": 1.893664269822838e-35,
+      "prediction_im": 1.2157813918774793e-35,
+      "prediction_error": 7.975420444908194e-10,
+      "electrode_mismatch": 0.00020536291596933936
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_over_f0": 1.0,
+      "cos2": 1.0,
+      "delta_re": 0.006783476378967784,
+      "delta_im": 0.0010755675929573312,
+      "prediction_re": 0.006783476378967784,
+      "prediction_im": 0.0010755675929573312,
+      "prediction_error": 0.0,
+      "electrode_mismatch": 0.0007899712447162855
+    },
+    {
+      "angle_deg": 22.5,
+      "frequency_over_f0": 1.0,
+      "cos2": 0.8535533905932737,
+      "delta_re": 0.005767868742119292,
+      "delta_im": 0.0009088340779227562,
+      "prediction_re": 0.005790059263277335,
+      "prediction_im": 0.0009180543657809761,
+      "prediction_error": 2.402983432015275e-05,
+      "electrode_mismatch": 9.541248096819039e-05
+    },
+    {
+      "angle_deg": 45.0,
+      "frequency_over_f0": 1.0,
+      "cos2": 0.5000000000000001,
+      "delta_re": 0.0033572351685539625,
+      "delta_im": 0.000521219335006865,
+      "prediction_re": 0.003391738189483893,
+      "prediction_im": 0.0005377837964786657,
+      "prediction_error": 3.827322611359006e-05,
+      "electrode_mismatch": 4.6537314052635296e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "frequency_over_f0": 1.0,
+      "cos2": 0.1464466094067263,
+      "delta_re": 0.0009584641053992371,
+      "delta_im": 0.00014695845288772297,
+      "prediction_re": 0.000993417115690449,
+      "prediction_im": 0.00015751322717635506,
+      "prediction_error": 3.6511863670614535e-05,
+      "electrode_mismatch": 7.827851366736115e-05
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_over_f0": 1.0,
+      "cos2": 3.749399456654644e-33,
+      "delta_re": -1.1138825972700772e-09,
+      "delta_im": -4.6416237390115023e-10,
+      "prediction_re": 2.543396264953142e-35,
+      "prediction_im": 4.032732548629561e-36,
+      "prediction_error": 1.20672331122204e-09,
+      "electrode_mismatch": 0.00020536291596933936
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_over_f0": 3.16227766,
+      "cos2": 1.0,
+      "delta_re": 0.006611270209201825,
+      "delta_im": 0.00015787206492504547,
+      "prediction_re": 0.006611270209201825,
+      "prediction_im": 0.00015787206492504547,
+      "prediction_error": 0.0,
+      "electrode_mismatch": 0.0007899712447162855
+    },
+    {
+      "angle_deg": 22.5,
+      "frequency_over_f0": 3.16227766,
+      "cos2": 0.8535533905932737,
+      "delta_re": 0.005617600755045471,
+      "delta_im": 0.0001308977396075404,
+      "prediction_re": 0.0056430721031925195,
+      "prediction_im": 0.000134752236296734,
+      "prediction_error": 2.5761341602392453e-05,
+      "electrode_mismatch": 0.00010358974300396546
+    },
+    {
+      "angle_deg": 45.0,
+      "frequency_over_f0": 3.16227766,
+      "cos2": 0.5000000000000001,
+      "delta_re": 0.0032635467002267993,
+      "delta_im": 7.098670279736922e-05,
+      "prediction_re": 0.0033056351046009133,
+      "prediction_im": 7.893603246252275e-05,
+      "prediction_error": 4.283252998463008e-05,
+      "electrode_mismatch": 5.614330960497362e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "frequency_over_f0": 3.16227766,
+      "cos2": 0.1464466094067263,
+      "delta_re": 0.0009302297746134336,
+      "delta_im": 1.884316925648377e-05,
+      "prediction_re": 0.0009681981060093053,
+      "prediction_im": 2.3119828628311468e-05,
+      "prediction_error": 3.8208428446736406e-05,
+      "electrode_mismatch": 9.438797340024207e-05
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_over_f0": 3.16227766,
+      "cos2": 3.749399456654644e-33,
+      "delta_re": -1.258357501532359e-09,
+      "delta_im": -1.077445897258722e-10,
+      "prediction_re": 2.4788292930178355e-35,
+      "prediction_im": 5.919254344509122e-37,
+      "prediction_error": 1.2629617960484622e-09,
+      "electrode_mismatch": 0.00020536291596933936
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_over_f0": 10.0,
+      "cos2": 1.0,
+      "delta_re": 0.006509364073952167,
+      "delta_im": 3.167939460371847e-05,
+      "prediction_re": 0.006509364073952167,
+      "prediction_im": 3.167939460371847e-05,
+      "prediction_error": 0.0,
+      "electrode_mismatch": 0.0007899712447162855
+    },
+    {
+      "angle_deg": 22.5,
+      "frequency_over_f0": 10.0,
+      "cos2": 0.8535533905932737,
+      "delta_re": 0.00552979524640454,
+      "delta_im": 2.562051131506989e-05,
+      "prediction_re": 0.005556089775927918,
+      "prediction_im": 2.704005467594616e-05,
+      "prediction_error": 2.6332819564361117e-05,
+      "electrode_mismatch": 0.00010626120226924601
+    },
+    {
+      "angle_deg": 45.0,
+      "frequency_over_f0": 10.0,
+      "cos2": 0.5000000000000001,
+      "delta_re": 0.003210625797900518,
+      "delta_im": 1.299515009149199e-05,
+      "prediction_re": 0.0032546820369760846,
+      "prediction_im": 1.5839697301859237e-05,
+      "prediction_error": 4.41479744757953e-05,
+      "electrode_mismatch": 5.761089627179312e-05
+    },
+    {
+      "angle_deg": 67.5,
+      "frequency_over_f0": 10.0,
+      "cos2": 0.1464466094067263,
+      "delta_re": 0.0009145238066570194,
+      "delta_im": 3.1514822640530847e-06,
+      "prediction_re": 0.0009532742980242496,
+      "prediction_im": 4.639339927772311e-06,
+      "prediction_error": 3.877904461986235e-05,
+      "electrode_mismatch": 9.71112930324811e-05
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_over_f0": 10.0,
+      "cos2": 3.749399456654644e-33,
+      "delta_re": -1.2407974647743458e-09,
+      "delta_im": -1.2643913661295608e-10,
+      "prediction_re": 2.440620612204352e-35,
+      "prediction_im": 1.1877870491433009e-37,
+      "prediction_error": 1.2472229968445393e-09,
+      "electrode_mismatch": 0.00020536291596933936
+    }
+  ]
+}

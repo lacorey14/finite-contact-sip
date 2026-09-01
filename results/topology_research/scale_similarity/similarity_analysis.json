@@ -1,0 +1,189 @@
+{
+  "scaling_rule": "all lengths x s; frequency / s; contact conductance x s",
+  "parallel_response_max_relative_difference": 0.013634837725778734,
+  "all_response_max_relative_difference": 0.26142761201922154,
+  "all_response_median_relative_difference": 0.023252982270650098,
+  "max_electrode_mismatch": 0.0009369130354146774,
+  "rows": [
+    {
+      "scale": 0.75,
+      "angle_deg": 0.0,
+      "frequency_over_f0": 0.1,
+      "delta_re": 0.00038824012246441164,
+      "delta_im": 0.000727602985909283,
+      "delta_abs": 0.0008247038849158439,
+      "relative_complex_difference_from_scale1": 0.011398393014168926,
+      "electrode_mismatch_max": 9.734098792238675e-05
+    },
+    {
+      "scale": 0.75,
+      "angle_deg": 0.0,
+      "frequency_over_f0": 1.0,
+      "delta_re": 0.001505758041373484,
+      "delta_im": -5.743874506977664e-05,
+      "delta_abs": 0.0015068531741998293,
+      "relative_complex_difference_from_scale1": 0.013634837725778734,
+      "electrode_mismatch_max": 0.00023457050163987075
+    },
+    {
+      "scale": 0.75,
+      "angle_deg": 0.0,
+      "frequency_over_f0": 10.0,
+      "delta_re": 0.0011156623077566152,
+      "delta_im": -6.101421614709032e-05,
+      "delta_abs": 0.0011173294588083054,
+      "relative_complex_difference_from_scale1": 0.012998882535258114,
+      "electrode_mismatch_max": 0.0003278206130110994
+    },
+    {
+      "scale": 0.75,
+      "angle_deg": 90.0,
+      "frequency_over_f0": 0.1,
+      "delta_re": 8.77500684839938e-06,
+      "delta_im": 8.978214342131481e-06,
+      "delta_abs": 1.25542454159026e-05,
+      "relative_complex_difference_from_scale1": 0.1248661369396963,
+      "electrode_mismatch_max": 5.890315422794968e-05
+    },
+    {
+      "scale": 0.75,
+      "angle_deg": 90.0,
+      "frequency_over_f0": 1.0,
+      "delta_re": 5.391042598112961e-06,
+      "delta_im": -4.163855957040226e-06,
+      "delta_abs": 6.811830644228313e-06,
+      "relative_complex_difference_from_scale1": 0.228429484148944,
+      "electrode_mismatch_max": 0.0001919169348851667
+    },
+    {
+      "scale": 0.75,
+      "angle_deg": 90.0,
+      "frequency_over_f0": 10.0,
+      "delta_re": 4.269577115079137e-06,
+      "delta_im": -4.4843991313836713e-07,
+      "delta_abs": 4.293062671019727e-06,
+      "relative_complex_difference_from_scale1": 0.26142761201922154,
+      "electrode_mismatch_max": 0.0002384385770566261
+    },
+    {
+      "scale": 1.0,
+      "angle_deg": 0.0,
+      "frequency_over_f0": 0.1,
+      "delta_re": 0.0003843079030563523,
+      "delta_im": 0.0007191812553737332,
+      "delta_abs": 0.0008154227384814023,
+      "relative_complex_difference_from_scale1": 0.0,
+      "electrode_mismatch_max": 0.00010035403500849808
+    },
+    {
+      "scale": 1.0,
+      "angle_deg": 0.0,
+      "frequency_over_f0": 1.0,
+      "delta_re": 0.0014854932892313377,
+      "delta_im": -5.789267566442234e-05,
+      "delta_abs": 0.001486620958498475,
+      "relative_complex_difference_from_scale1": 0.0,
+      "electrode_mismatch_max": 0.0003143375811144454
+    },
+    {
+      "scale": 1.0,
+      "angle_deg": 0.0,
+      "frequency_over_f0": 10.0,
+      "delta_re": 0.0011013838479654314,
+      "delta_im": -5.971128208415795e-05,
+      "delta_abs": 0.0011030012773189679,
+      "relative_complex_difference_from_scale1": 0.0,
+      "electrode_mismatch_max": 0.0003647264274785314
+    },
+    {
+      "scale": 1.0,
+      "angle_deg": 90.0,
+      "frequency_over_f0": 0.1,
+      "delta_re": 7.930980505943541e-06,
+      "delta_im": 7.867610337987125e-06,
+      "delta_abs": 1.1171380586841466e-05,
+      "relative_complex_difference_from_scale1": 0.0,
+      "electrode_mismatch_max": 0.0002628092012231981
+    },
+    {
+      "scale": 1.0,
+      "angle_deg": 90.0,
+      "frequency_over_f0": 1.0,
+      "delta_re": 4.200615582983236e-06,
+      "delta_im": -3.697878697595143e-06,
+      "delta_abs": 5.596380807104672e-06,
+      "relative_complex_difference_from_scale1": 0.0,
+      "electrode_mismatch_max": 0.0007381198915126681
+    },
+    {
+      "scale": 1.0,
+      "angle_deg": 90.0,
+      "frequency_over_f0": 10.0,
+      "delta_re": 3.3827061075020204e-06,
+      "delta_im": -3.7641350956985845e-07,
+      "delta_abs": 3.403584542789876e-06,
+      "relative_complex_difference_from_scale1": 0.0,
+      "electrode_mismatch_max": 0.0009369130354146774
+    },
+    {
+      "scale": 1.25,
+      "angle_deg": 0.0,
+      "frequency_over_f0": 0.1,
+      "delta_re": 0.0003851649279241198,
+      "delta_im": 0.0007210700076199636,
+      "delta_abs": 0.0008174924939055078,
+      "relative_complex_difference_from_scale1": 0.0025435844425201483,
+      "electrode_mismatch_max": 6.972671372917517e-05
+    },
+    {
+      "scale": 1.25,
+      "angle_deg": 0.0,
+      "frequency_over_f0": 1.0,
+      "delta_re": 0.0014901230863691717,
+      "delta_im": -5.8637505047561336e-05,
+      "delta_abs": 0.0014912763558537997,
+      "relative_complex_difference_from_scale1": 0.0031543531438545753,
+      "electrode_mismatch_max": 0.00019731887178762848
+    },
+    {
+      "scale": 1.25,
+      "angle_deg": 0.0,
+      "frequency_over_f0": 10.0,
+      "delta_re": 0.001102547531175474,
+      "delta_im": -6.055833777842215e-05,
+      "delta_abs": 0.0011042093871977444,
+      "relative_complex_difference_from_scale1": 0.0013049186275744216,
+      "electrode_mismatch_max": 0.00023518927989175166
+    },
+    {
+      "scale": 1.25,
+      "angle_deg": 90.0,
+      "frequency_over_f0": 0.1,
+      "delta_re": 8.156253224811394e-06,
+      "delta_im": 8.157609813549006e-06,
+      "delta_abs": 1.1535643221656836e-05,
+      "relative_complex_difference_from_scale1": 0.03287112681552146,
+      "electrode_mismatch_max": 2.6571996921804653e-05
+    },
+    {
+      "scale": 1.25,
+      "angle_deg": 90.0,
+      "frequency_over_f0": 1.0,
+      "delta_re": 4.494386783904236e-06,
+      "delta_im": -3.82228539245761e-06,
+      "delta_abs": 5.899947303555167e-06,
+      "relative_complex_difference_from_scale1": 0.05700603811356922,
+      "electrode_mismatch_max": 9.820023432710664e-05
+    },
+    {
+      "scale": 1.25,
+      "angle_deg": 90.0,
+      "frequency_over_f0": 10.0,
+      "delta_re": 3.6013532815348803e-06,
+      "delta_im": -3.9577427827207096e-07,
+      "delta_abs": 3.6230350174630976e-06,
+      "relative_complex_difference_from_scale1": 0.06449161941348207,
+      "electrode_mismatch_max": 0.0001276912781812704
+    }
+  ]
+}

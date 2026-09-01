@@ -1,0 +1,86 @@
+{
+  "n_full_fem_solves": 36,
+  "max_electrode_mismatch": 0.00010415569012812664,
+  "isotropic_min_over_max_range": [
+    0.9999999999999912,
+    1.0
+  ],
+  "fabric_z_over_xy_range": [
+    1.2382472120145793,
+    3.489900423236017
+  ],
+  "metrics": [
+    {
+      "network": "isotropic",
+      "frequency_over_f0": 0.1,
+      "delta_sigma_x": 0.00257093354453384,
+      "delta_sigma_y": 0.00257093354453384,
+      "delta_sigma_z": 0.0025709335445338374,
+      "fem_min_over_max": 0.999999999999999,
+      "fem_anisotropy_cv": 4.771164684340809e-16,
+      "fem_z_over_xy": 0.999999999999999,
+      "graph_min_over_max": 1.0,
+      "graph_z_over_xy": 1.0
+    },
+    {
+      "network": "isotropic",
+      "frequency_over_f0": 1.0,
+      "delta_sigma_x": 0.007064056310438393,
+      "delta_sigma_y": 0.007064056310438393,
+      "delta_sigma_z": 0.007064056310438331,
+      "fem_min_over_max": 0.9999999999999912,
+      "fem_anisotropy_cv": 4.109790997758951e-15,
+      "fem_z_over_xy": 0.9999999999999912,
+      "graph_min_over_max": 1.0,
+      "graph_z_over_xy": 1.0
+    },
+    {
+      "network": "isotropic",
+      "frequency_over_f0": 10.0,
+      "delta_sigma_x": 0.006220918354638663,
+      "delta_sigma_y": 0.006220918354638663,
+      "delta_sigma_z": 0.006220918354638663,
+      "fem_min_over_max": 1.0,
+      "fem_anisotropy_cv": 1.3942663904946614e-16,
+      "fem_z_over_xy": 1.0,
+      "graph_min_over_max": 0.9999999999999998,
+      "graph_z_over_xy": 0.9999999999999998
+    },
+    {
+      "network": "axial_fabric",
+      "frequency_over_f0": 0.1,
+      "delta_sigma_x": 0.0021263912591458164,
+      "delta_sigma_y": 0.0021263912591458164,
+      "delta_sigma_z": 0.002632998048289478,
+      "fem_min_over_max": 0.8075931771112487,
+      "fem_anisotropy_cv": 0.10404778152159166,
+      "fem_z_over_xy": 1.2382472120145793,
+      "graph_min_over_max": 0.9701450847779363,
+      "graph_z_over_xy": 1.0307736602395892
+    },
+    {
+      "network": "axial_fabric",
+      "frequency_over_f0": 1.0,
+      "delta_sigma_x": 0.0030327700087885265,
+      "delta_sigma_y": 0.0030327700087885265,
+      "delta_sigma_z": 0.009456427123111696,
+      "fem_min_over_max": 0.3207099223951482,
+      "fem_anisotropy_cv": 0.5852623529460161,
+      "fem_z_over_xy": 3.118082510611865,
+      "graph_min_over_max": 0.38119513836437247,
+      "graph_z_over_xy": 2.6233283149695668
+    },
+    {
+      "network": "axial_fabric",
+      "frequency_over_f0": 10.0,
+      "delta_sigma_x": 0.0025218362652026185,
+      "delta_sigma_y": 0.0025218362652026185,
+      "delta_sigma_z": 0.008800957449262554,
+      "fem_min_over_max": 0.286541126887726,
+      "fem_anisotropy_cv": 0.6414052489176636,
+      "fem_z_over_xy": 3.489900423236017,
+      "graph_min_over_max": 0.10753992143194901,
+      "graph_z_over_xy": 9.298872332102244
+    }
+  ]
+}

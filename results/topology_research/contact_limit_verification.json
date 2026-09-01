@@ -1,0 +1,35 @@
+{
+  "checks": {
+    "exact_zero_contact": true,
+    "tiny_contact_limit": true,
+    "strong_contact_limit": true,
+    "electrode_conservation": true
+  },
+  "rows": [
+    {
+      "frequency_over_f0": 0.3,
+      "zero_vs_disconnected_rel": 0.0,
+      "tiny_vs_disconnected_rel": 4.661603090227457e-08,
+      "strong_vs_ideal_rel": 1.743121148561938e-05,
+      "strong_component_voltage_difference_V": 0.000334310586656199,
+      "max_electrode_mismatch": 8.119440358888303e-05
+    },
+    {
+      "frequency_over_f0": 1.0,
+      "zero_vs_disconnected_rel": 0.0,
+      "tiny_vs_disconnected_rel": 4.310846257557996e-08,
+      "strong_vs_ideal_rel": 7.565818909745886e-05,
+      "strong_component_voltage_difference_V": 0.000720884492307871,
+      "max_electrode_mismatch": 0.00016152502569906376
+    },
+    {
+      "frequency_over_f0": 3.0,
+      "zero_vs_disconnected_rel": 0.0,
+      "tiny_vs_disconnected_rel": 3.840691653899311e-08,
+      "strong_vs_ideal_rel": 0.00010465103204985208,
+      "strong_component_voltage_difference_V": 0.0008655138322570402,
+      "max_electrode_mismatch": 0.00018931517456634593
+    }
+  ],
+  "passed": true
+}

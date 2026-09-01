@@ -1,0 +1,44 @@
+{
+  "rows": [
+    {
+      "axis": "x",
+      "state": "complete",
+      "sigma_re_S_m": 0.20402297862131863,
+      "sigma_im_S_m": 0.0036180283742405384,
+      "electrode_mismatch": 4.4147336125412744e-05,
+      "grain_facets": 4964,
+      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/rve_cube_8particle_L80_x_fine.msh"
+    },
+    {
+      "axis": "x",
+      "state": "disconnected",
+      "sigma_re_S_m": 0.201044551180756,
+      "sigma_im_S_m": 0.00370652612015595,
+      "electrode_mismatch": 4.033526722533219e-05,
+      "grain_facets": 4964,
+      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/rve_cube_8particle_L80_x_fine.msh"
+    },
+    {
+      "axis": "z",
+      "state": "complete",
+      "sigma_re_S_m": 0.2099899247998155,
+      "sigma_im_S_m": 0.006126548045769398,
+      "electrode_mismatch": 6.940465897604286e-05,
+      "grain_facets": 4964,
+      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/rve_cube_8particle_L80_z_fine.msh"
+    },
+    {
+      "axis": "z",
+      "state": "disconnected",
+      "sigma_re_S_m": 0.201044551180756,
+      "sigma_im_S_m": 0.00370652612015595,
+      "electrode_mismatch": 4.033526722533219e-05,
+      "grain_facets": 4964,
+      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/rve_cube_8particle_L80_z_fine.msh"
+    }
+  ],
+  "fine_z_over_x": 3.1099814475323413,
+  "base_z_over_x": 3.118082510611865,
+  "relative_ratio_change": 0.0025980913115522587,
+  "max_electrode_mismatch": 6.940465897604286e-05
+}

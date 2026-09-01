@@ -1,0 +1,32 @@
+{
+  "rows": [
+    {
+      "frequency_over_f0": 0.1,
+      "contact_increment_relative_change": 0.0156804891373839,
+      "deleted_branch_contrast_relative_change": 0.015676890713105546,
+      "fine_contrast_over_contact_increment": 0.9999006236242624,
+      "fine_electrode_mismatch_max": 4.4990893521202565e-05
+    },
+    {
+      "frequency_over_f0": 1.0,
+      "contact_increment_relative_change": 0.0294951356073895,
+      "deleted_branch_contrast_relative_change": 0.02951240515973208,
+      "fine_contrast_over_contact_increment": 1.0005468217386755,
+      "fine_electrode_mismatch_max": 0.00011403514124002804
+    },
+    {
+      "frequency_over_f0": 10.0,
+      "contact_increment_relative_change": 0.024454059210737202,
+      "deleted_branch_contrast_relative_change": 0.024401184768838628,
+      "fine_contrast_over_contact_increment": 0.9988154497377715,
+      "fine_electrode_mismatch_max": 0.00014643408397837577
+    }
+  ],
+  "max_contact_increment_relative_change": 0.0294951356073895,
+  "max_deleted_branch_contrast_relative_change": 0.02951240515973208,
+  "fine_contrast_fraction_range": [
+    0.9988154497377715,
+    1.0005468217386755
+  ],
+  "max_fine_electrode_mismatch": 0.00014643408397837577
+}

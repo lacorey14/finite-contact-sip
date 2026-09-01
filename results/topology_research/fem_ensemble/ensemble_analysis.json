@@ -1,0 +1,240 @@
+{
+  "n_networks": 6,
+  "n_full_fem_solves": 72,
+  "n_network_frequency_pairs": 18,
+  "overall_median_perpendicular_over_parallel": 0.013322528487828517,
+  "overall_range_perpendicular_over_parallel": [
+    0.00021164574317230204,
+    0.051018759352383106
+  ],
+  "overall_median_suppression_factor": 75.1211670171275,
+  "fraction_below_1_percent": 0.3333333333333333,
+  "fraction_below_5_percent": 0.9444444444444444,
+  "max_electrode_mismatch": 0.0009369130354146774,
+  "by_frequency": {
+    "0.1": {
+      "median_perpendicular_over_parallel": 0.03214226125552058,
+      "range_perpendicular_over_parallel": [
+        0.013700109231251536,
+        0.051018759352383106
+      ],
+      "median_suppression_factor": 31.28434969163645
+    },
+    "1.0": {
+      "median_perpendicular_over_parallel": 0.008563309023695658,
+      "range_perpendicular_over_parallel": [
+        0.001941318281823472,
+        0.044642905385163044
+      ],
+      "median_suppression_factor": 158.19455328374983
+    },
+    "10.0": {
+      "median_perpendicular_over_parallel": 0.009694587210588013,
+      "range_perpendicular_over_parallel": [
+        0.00021164574317230204,
+        0.03325014344271729
+      ],
+      "median_suppression_factor": 109.77708571638709
+    }
+  },
+  "rows": [
+    {
+      "network": 0,
+      "frequency_over_f0": 0.1,
+      "parallel_delta_sigma_abs": 0.0012202847458448669,
+      "perpendicular_delta_sigma_abs": 6.225741378964324e-05,
+      "perpendicular_over_parallel": 0.051018759352383106,
+      "parallel_over_bulk_percent": 0.6114529167061002,
+      "perpendicular_over_bulk_percent": 0.03127812018878926,
+      "suppression_factor_parallel_over_perpendicular": 19.600633427658796,
+      "electrode_mismatch_max": 0.0002797622100023878
+    },
+    {
+      "network": 0,
+      "frequency_over_f0": 1.0,
+      "parallel_delta_sigma_abs": 0.0021929931445159303,
+      "perpendicular_delta_sigma_abs": 9.790158546093586e-05,
+      "perpendicular_over_parallel": 0.044642905385163044,
+      "parallel_over_bulk_percent": 1.0607305230983417,
+      "perpendicular_over_bulk_percent": 0.04756854776716396,
+      "suppression_factor_parallel_over_perpendicular": 22.39997579396675,
+      "electrode_mismatch_max": 0.0006110512624745335
+    },
+    {
+      "network": 0,
+      "frequency_over_f0": 10.0,
+      "parallel_delta_sigma_abs": 0.0018125483847345235,
+      "perpendicular_delta_sigma_abs": 6.0267493789288434e-05,
+      "perpendicular_over_parallel": 0.03325014344271729,
+      "parallel_over_bulk_percent": 0.86541179648939,
+      "perpendicular_over_bulk_percent": 0.028914267412763824,
+      "suppression_factor_parallel_over_perpendicular": 30.075058224118067,
+      "electrode_mismatch_max": 0.0008163998405082626
+    },
+    {
+      "network": 1,
+      "frequency_over_f0": 0.1,
+      "parallel_delta_sigma_abs": 0.0019450270299650836,
+      "perpendicular_delta_sigma_abs": 5.7873091766895196e-05,
+      "perpendicular_over_parallel": 0.029754389463643657,
+      "parallel_over_bulk_percent": 0.9724898369332494,
+      "perpendicular_over_bulk_percent": 0.029081827104749595,
+      "suppression_factor_parallel_over_perpendicular": 33.608486614113914,
+      "electrode_mismatch_max": 0.00018426796339568417
+    },
+    {
+      "network": 1,
+      "frequency_over_f0": 1.0,
+      "parallel_delta_sigma_abs": 0.0037007290470751604,
+      "perpendicular_delta_sigma_abs": 1.5475228755551207e-05,
+      "perpendicular_over_parallel": 0.004181670302985819,
+      "parallel_over_bulk_percent": 1.7775378095869567,
+      "perpendicular_over_bulk_percent": 0.007644446680074382,
+      "suppression_factor_parallel_over_perpendicular": 239.13889129087354,
+      "electrode_mismatch_max": 0.0004798958473592372
+    },
+    {
+      "network": 1,
+      "frequency_over_f0": 10.0,
+      "parallel_delta_sigma_abs": 0.0033265424931539223,
+      "perpendicular_delta_sigma_abs": 2.43259649273398e-05,
+      "perpendicular_over_parallel": 0.007312687265352247,
+      "parallel_over_bulk_percent": 1.5786724155845675,
+      "perpendicular_over_bulk_percent": 0.01187302354771905,
+      "suppression_factor_parallel_over_perpendicular": 136.7486347649561,
+      "electrode_mismatch_max": 0.0005803888255394013
+    },
+    {
+      "network": 2,
+      "frequency_over_f0": 0.1,
+      "parallel_delta_sigma_abs": 0.0008154227384814023,
+      "perpendicular_delta_sigma_abs": 1.1171380586841466e-05,
+      "perpendicular_over_parallel": 0.013700109231251536,
+      "parallel_over_bulk_percent": 0.4091046713566503,
+      "perpendicular_over_bulk_percent": 0.0056098358563022475,
+      "suppression_factor_parallel_over_perpendicular": 72.9921187576289,
+      "electrode_mismatch_max": 0.0002628092012231981
+    },
+    {
+      "network": 2,
+      "frequency_over_f0": 1.0,
+      "parallel_delta_sigma_abs": 0.001486620958498475,
+      "perpendicular_delta_sigma_abs": 5.596380807104672e-06,
+      "perpendicular_over_parallel": 0.0037644974498120616,
+      "parallel_over_bulk_percent": 0.7193683149408718,
+      "perpendicular_over_bulk_percent": 0.0027336876308986856,
+      "suppression_factor_parallel_over_perpendicular": 265.6397071141392,
+      "electrode_mismatch_max": 0.0007381198915126681
+    },
+    {
+      "network": 2,
+      "frequency_over_f0": 10.0,
+      "parallel_delta_sigma_abs": 0.0011030012773189679,
+      "perpendicular_delta_sigma_abs": 3.403584542789876e-06,
+      "perpendicular_over_parallel": 0.00308574850526272,
+      "parallel_over_bulk_percent": 0.5266271873150157,
+      "perpendicular_over_bulk_percent": 0.0016431450694903923,
+      "suppression_factor_parallel_over_perpendicular": 324.07048023988597,
+      "electrode_mismatch_max": 0.0009369130354146774
+    },
+    {
+      "network": 3,
+      "frequency_over_f0": 0.1,
+      "parallel_delta_sigma_abs": 0.0015209364816154525,
+      "perpendicular_delta_sigma_abs": 6.001044472981708e-05,
+      "perpendicular_over_parallel": 0.03945624650023346,
+      "parallel_over_bulk_percent": 0.7624349481646624,
+      "perpendicular_over_bulk_percent": 0.030100882739772756,
+      "suppression_factor_parallel_over_perpendicular": 25.344529414222997,
+      "electrode_mismatch_max": 0.00021517049718831582
+    },
+    {
+      "network": 3,
+      "frequency_over_f0": 1.0,
+      "parallel_delta_sigma_abs": 0.0030167642544815867,
+      "perpendicular_delta_sigma_abs": 3.9051855631454546e-05,
+      "perpendicular_over_parallel": 0.012944947744405497,
+      "parallel_over_bulk_percent": 1.4665780858729474,
+      "perpendicular_over_bulk_percent": 0.018729107493456375,
+      "suppression_factor_parallel_over_perpendicular": 77.2502152766261,
+      "electrode_mismatch_max": 0.0005712457723086063
+    },
+    {
+      "network": 3,
+      "frequency_over_f0": 10.0,
+      "parallel_delta_sigma_abs": 0.002922730604746392,
+      "perpendicular_delta_sigma_abs": 3.590854089226311e-05,
+      "perpendicular_over_parallel": 0.012285956438800465,
+      "parallel_over_bulk_percent": 1.4035721722681163,
+      "perpendicular_over_bulk_percent": 0.01697950909326795,
+      "suppression_factor_parallel_over_perpendicular": 81.39374455552235,
+      "electrode_mismatch_max": 0.0007031289586627115
+    },
+    {
+      "network": 4,
+      "frequency_over_f0": 0.1,
+      "parallel_delta_sigma_abs": 0.0015681900428578465,
+      "perpendicular_delta_sigma_abs": 5.4149810823485454e-05,
+      "perpendicular_over_parallel": 0.034530133047397514,
+      "parallel_over_bulk_percent": 0.7834924087299111,
+      "perpendicular_over_bulk_percent": 0.02722083515195614,
+      "suppression_factor_parallel_over_perpendicular": 28.96021276915898,
+      "electrode_mismatch_max": 0.00014861162321960187
+    },
+    {
+      "network": 4,
+      "frequency_over_f0": 1.0,
+      "parallel_delta_sigma_abs": 0.002163854469043086,
+      "perpendicular_delta_sigma_abs": 5.783725982029421e-05,
+      "perpendicular_over_parallel": 0.026728812241181538,
+      "parallel_over_bulk_percent": 1.0304211945163173,
+      "perpendicular_over_bulk_percent": 0.028364580213199386,
+      "suppression_factor_parallel_over_perpendicular": 37.41281097628734,
+      "electrode_mismatch_max": 0.0003776208009600922
+    },
+    {
+      "network": 4,
+      "frequency_over_f0": 10.0,
+      "parallel_delta_sigma_abs": 0.001633428306739822,
+      "perpendicular_delta_sigma_abs": 1.9726075966302443e-05,
+      "perpendicular_over_parallel": 0.012076487155823778,
+      "parallel_over_bulk_percent": 0.765342225743161,
+      "perpendicular_over_bulk_percent": 0.00955666145496603,
+      "suppression_factor_parallel_over_perpendicular": 82.80553666781809,
+      "electrode_mismatch_max": 0.00044853046710465795
+    },
+    {
+      "network": 5,
+      "frequency_over_f0": 0.1,
+      "parallel_delta_sigma_abs": 0.0008765946458239197,
+      "perpendicular_delta_sigma_abs": 1.4751036315617829e-05,
+      "perpendicular_over_parallel": 0.016827659609708417,
+      "parallel_over_bulk_percent": 0.4395907885507752,
+      "perpendicular_over_bulk_percent": 0.007394503043776499,
+      "suppression_factor_parallel_over_perpendicular": 59.4259702890037,
+      "electrode_mismatch_max": 0.00010458212153705254
+    },
+    {
+      "network": 5,
+      "frequency_over_f0": 1.0,
+      "parallel_delta_sigma_abs": 0.0014274110757372053,
+      "perpendicular_delta_sigma_abs": 2.771059217005945e-06,
+      "perpendicular_over_parallel": 0.001941318281823472,
+      "parallel_over_bulk_percent": 0.6961234216715539,
+      "perpendicular_over_bulk_percent": 0.00133466839433903,
+      "suppression_factor_parallel_over_perpendicular": 515.1138838813717,
+      "electrode_mismatch_max": 0.00035046737287538576
+    },
+    {
+      "network": 5,
+      "frequency_over_f0": 10.0,
+      "parallel_delta_sigma_abs": 0.001190985745107826,
+      "perpendicular_delta_sigma_abs": 2.5206706313096373e-07,
+      "perpendicular_over_parallel": 0.00021164574317230204,
+      "parallel_over_bulk_percent": 0.5735831338283105,
+      "perpendicular_over_bulk_percent": 0.00011990018392453118,
+      "suppression_factor_parallel_over_perpendicular": 4724.8765083165135,
+      "electrode_mismatch_max": 0.00037649052839416766
+    }
+  ]
+}

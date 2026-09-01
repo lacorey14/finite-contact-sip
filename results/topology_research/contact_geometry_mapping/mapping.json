@@ -1,0 +1,317 @@
+[
+  {
+    "target_G_S": 0.002,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 2.5231325220201602e-05,
+    "required_radius_um": 25.2313252202016
+  },
+  {
+    "target_G_S": 0.002,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 2.52313252202016e-06,
+    "required_radius_um": 2.52313252202016
+  },
+  {
+    "target_G_S": 0.002,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 2.5231325220201604e-07,
+    "required_radius_um": 0.25231325220201606
+  },
+  {
+    "target_G_S": 0.002,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 7.978845608028654e-05,
+    "required_radius_um": 79.78845608028654
+  },
+  {
+    "target_G_S": 0.002,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 7.978845608028653e-06,
+    "required_radius_um": 7.978845608028653
+  },
+  {
+    "target_G_S": 0.002,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 7.978845608028654e-07,
+    "required_radius_um": 0.7978845608028654
+  },
+  {
+    "target_G_S": 0.002,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.000252313252202016,
+    "required_radius_um": 252.313252202016
+  },
+  {
+    "target_G_S": 0.002,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 2.5231325220201602e-05,
+    "required_radius_um": 25.2313252202016
+  },
+  {
+    "target_G_S": 0.002,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 2.5231325220201603e-06,
+    "required_radius_um": 2.5231325220201604
+  },
+  {
+    "target_G_S": 0.01,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 5.641895835477563e-05,
+    "required_radius_um": 56.41895835477563
+  },
+  {
+    "target_G_S": 0.01,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 5.641895835477563e-06,
+    "required_radius_um": 5.641895835477563
+  },
+  {
+    "target_G_S": 0.01,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 5.641895835477562e-07,
+    "required_radius_um": 0.5641895835477563
+  },
+  {
+    "target_G_S": 0.01,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.00017841241161527713,
+    "required_radius_um": 178.41241161527714
+  },
+  {
+    "target_G_S": 0.01,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 1.7841241161527713e-05,
+    "required_radius_um": 17.841241161527712
+  },
+  {
+    "target_G_S": 0.01,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 1.7841241161527713e-06,
+    "required_radius_um": 1.7841241161527712
+  },
+  {
+    "target_G_S": 0.01,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.0005641895835477563,
+    "required_radius_um": 564.1895835477563
+  },
+  {
+    "target_G_S": 0.01,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 5.641895835477564e-05,
+    "required_radius_um": 56.41895835477564
+  },
+  {
+    "target_G_S": 0.01,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 5.6418958354775635e-06,
+    "required_radius_um": 5.6418958354775635
+  },
+  {
+    "target_G_S": 0.02,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 7.978845608028654e-05,
+    "required_radius_um": 79.78845608028654
+  },
+  {
+    "target_G_S": 0.02,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 7.978845608028653e-06,
+    "required_radius_um": 7.978845608028653
+  },
+  {
+    "target_G_S": 0.02,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 7.978845608028654e-07,
+    "required_radius_um": 0.7978845608028654
+  },
+  {
+    "target_G_S": 0.02,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.000252313252202016,
+    "required_radius_um": 252.313252202016
+  },
+  {
+    "target_G_S": 0.02,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 2.5231325220201602e-05,
+    "required_radius_um": 25.2313252202016
+  },
+  {
+    "target_G_S": 0.02,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 2.5231325220201603e-06,
+    "required_radius_um": 2.5231325220201604
+  },
+  {
+    "target_G_S": 0.02,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.0007978845608028654,
+    "required_radius_um": 797.8845608028654
+  },
+  {
+    "target_G_S": 0.02,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 7.978845608028655e-05,
+    "required_radius_um": 79.78845608028655
+  },
+  {
+    "target_G_S": 0.02,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 7.978845608028654e-06,
+    "required_radius_um": 7.978845608028655
+  },
+  {
+    "target_G_S": 0.05,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.000126156626101008,
+    "required_radius_um": 126.156626101008
+  },
+  {
+    "target_G_S": 0.05,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 1.26156626101008e-05,
+    "required_radius_um": 12.615662610100799
+  },
+  {
+    "target_G_S": 0.05,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 1.26156626101008e-06,
+    "required_radius_um": 1.26156626101008
+  },
+  {
+    "target_G_S": 0.05,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.0003989422804014327,
+    "required_radius_um": 398.9422804014327
+  },
+  {
+    "target_G_S": 0.05,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 3.9894228040143275e-05,
+    "required_radius_um": 39.894228040143275
+  },
+  {
+    "target_G_S": 0.05,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 3.989422804014327e-06,
+    "required_radius_um": 3.9894228040143274
+  },
+  {
+    "target_G_S": 0.05,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.00126156626101008,
+    "required_radius_um": 1261.56626101008
+  },
+  {
+    "target_G_S": 0.05,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 0.000126156626101008,
+    "required_radius_um": 126.156626101008
+  },
+  {
+    "target_G_S": 0.05,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 1.2615662610100801e-05,
+    "required_radius_um": 12.6156626101008
+  },
+  {
+    "target_G_S": 0.2,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.000252313252202016,
+    "required_radius_um": 252.313252202016
+  },
+  {
+    "target_G_S": 0.2,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 2.52313252202016e-05,
+    "required_radius_um": 25.231325220201597
+  },
+  {
+    "target_G_S": 0.2,
+    "neck_length_m": 1e-06,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 2.52313252202016e-06,
+    "required_radius_um": 2.52313252202016
+  },
+  {
+    "target_G_S": 0.2,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.0007978845608028654,
+    "required_radius_um": 797.8845608028654
+  },
+  {
+    "target_G_S": 0.2,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 7.978845608028655e-05,
+    "required_radius_um": 79.78845608028655
+  },
+  {
+    "target_G_S": 0.2,
+    "neck_length_m": 1e-05,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 7.978845608028654e-06,
+    "required_radius_um": 7.978845608028655
+  },
+  {
+    "target_G_S": 0.2,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 1.0,
+    "required_radius_m": 0.00252313252202016,
+    "required_radius_um": 2523.13252202016
+  },
+  {
+    "target_G_S": 0.2,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 100.0,
+    "required_radius_m": 0.000252313252202016,
+    "required_radius_um": 252.313252202016
+  },
+  {
+    "target_G_S": 0.2,
+    "neck_length_m": 0.0001,
+    "neck_conductivity_S_m": 10000.0,
+    "required_radius_m": 2.5231325220201602e-05,
+    "required_radius_um": 25.2313252202016
+  }
+]

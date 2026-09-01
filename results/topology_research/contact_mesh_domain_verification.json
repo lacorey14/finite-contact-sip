@@ -1,0 +1,132 @@
+{
+  "rows": [
+    {
+      "case_id": "disconnected",
+      "mesh_id": "base",
+      "length_m": 0.047,
+      "nodes": 12692,
+      "elements": 75292,
+      "frequency_hz": 39.674363833226906,
+      "sigma_re_S_m": 0.20211932135937843,
+      "sigma_im_S_m": 0.0049498782191565015,
+      "volume_scaled_sigma_im": 5.139112063474855e-07,
+      "electrode_mismatch": 3.950626549460805e-05
+    },
+    {
+      "case_id": "disconnected",
+      "mesh_id": "fine",
+      "length_m": 0.047,
+      "nodes": 40993,
+      "elements": 248196,
+      "frequency_hz": 39.674363833226906,
+      "sigma_re_S_m": 0.20218542082902763,
+      "sigma_im_S_m": 0.00482700884935308,
+      "volume_scaled_sigma_im": 5.011545397663848e-07,
+      "electrode_mismatch": 1.774043878749529e-05
+    },
+    {
+      "case_id": "disconnected",
+      "mesh_id": "large",
+      "length_m": 0.065,
+      "nodes": 16438,
+      "elements": 97874,
+      "frequency_hz": 39.674363833226906,
+      "sigma_re_S_m": 0.2008010579993425,
+      "sigma_im_S_m": 0.0018319294434657228,
+      "volume_scaled_sigma_im": 5.030936234117742e-07,
+      "electrode_mismatch": 8.381375407032711e-05
+    },
+    {
+      "case_id": "contact_0p02S",
+      "mesh_id": "base",
+      "length_m": 0.047,
+      "nodes": 12692,
+      "elements": 75292,
+      "frequency_hz": 16.848208520070816,
+      "sigma_re_S_m": 0.20586028150159294,
+      "sigma_im_S_m": 0.007768736754652571,
+      "volume_scaled_sigma_im": 8.065735560782939e-07,
+      "electrode_mismatch": 7.947696882590658e-05
+    },
+    {
+      "case_id": "contact_0p02S",
+      "mesh_id": "fine",
+      "length_m": 0.047,
+      "nodes": 40993,
+      "elements": 248196,
+      "frequency_hz": 16.848208520070816,
+      "sigma_re_S_m": 0.20584274327028595,
+      "sigma_im_S_m": 0.007675223138527741,
+      "volume_scaled_sigma_im": 7.968646919113656e-07,
+      "electrode_mismatch": 9.233944746276057e-05
+    },
+    {
+      "case_id": "contact_0p02S",
+      "mesh_id": "large",
+      "length_m": 0.065,
+      "nodes": 16438,
+      "elements": 97874,
+      "frequency_hz": 16.848208520070816,
+      "sigma_re_S_m": 0.20221525960126158,
+      "sigma_im_S_m": 0.0028602589368895578,
+      "volume_scaled_sigma_im": 7.854986105432948e-07,
+      "electrode_mismatch": 9.653278493360107e-05
+    },
+    {
+      "case_id": "ideal_connected",
+      "mesh_id": "base",
+      "length_m": 0.047,
+      "nodes": 12692,
+      "elements": 75292,
+      "frequency_hz": 25.31607298536216,
+      "sigma_re_S_m": 0.21175652058696837,
+      "sigma_im_S_m": 0.014567650357014707,
+      "volume_scaled_sigma_im": 1.5124571630163378e-06,
+      "electrode_mismatch": 0.00014878460516960904
+    },
+    {
+      "case_id": "ideal_connected",
+      "mesh_id": "fine",
+      "length_m": 0.047,
+      "nodes": 40993,
+      "elements": 248196,
+      "frequency_hz": 25.31607298536216,
+      "sigma_re_S_m": 0.21173907541301196,
+      "sigma_im_S_m": 0.0142611984536472,
+      "volume_scaled_sigma_im": 1.4806404070530132e-06,
+      "electrode_mismatch": 0.00016220249589564756
+    },
+    {
+      "case_id": "ideal_connected",
+      "mesh_id": "large",
+      "length_m": 0.065,
+      "nodes": 16438,
+      "elements": 97874,
+      "frequency_hz": 25.31607298536216,
+      "sigma_re_S_m": 0.20444407174447982,
+      "sigma_im_S_m": 0.005286325253578566,
+      "volume_scaled_sigma_im": 1.4517570727640137e-06,
+      "electrode_mismatch": 0.0001739918593440432
+    }
+  ],
+  "checks": [
+    {
+      "case_id": "disconnected",
+      "fine_vs_base_sigma_im_rel": 0.025454556566617593,
+      "large_vs_base_volume_scaled_im_rel": 0.02150212690502985,
+      "max_electrode_mismatch": 8.381375407032711e-05
+    },
+    {
+      "case_id": "contact_0p02S",
+      "fine_vs_base_sigma_im_rel": 0.012183830285717078,
+      "large_vs_base_volume_scaled_im_rel": 0.026830022678744753,
+      "max_electrode_mismatch": 9.653278493360107e-05
+    },
+    {
+      "case_id": "ideal_connected",
+      "fine_vs_base_sigma_im_rel": 0.021488509844636086,
+      "large_vs_base_volume_scaled_im_rel": 0.041811465148750185,
+      "max_electrode_mismatch": 0.0001739918593440432
+    }
+  ]
+}

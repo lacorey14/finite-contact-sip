@@ -1,0 +1,3 @@
+metric,one_direction_percent,two_orthogonal_percent
+edges below 0.1 percent,14.881989069725543,4.978679959161612
+networks with at least one edge below 0.1 percent,93.0,56.10000000000001

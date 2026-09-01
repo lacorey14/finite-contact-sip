@@ -1,0 +1,127 @@
+{
+  "comparison": "full T contacts versus identical geometry with branch edge (1,3) deleted",
+  "directional_metrics": {
+    "0.0": {
+      "median_contrast_over_full_contact_increment": 2.563160557496066e-07,
+      "range_contrast_over_full_contact_increment": [
+        4.8235478987703324e-08,
+        4.117966937346016e-07
+      ],
+      "median_contrast_over_bulk_sigma": 5.026850356815828e-09,
+      "max_contrast_over_bulk_sigma": 9.919147415205317e-09
+    },
+    "90.0": {
+      "median_contrast_over_full_contact_increment": 0.9998972923877879,
+      "range_contrast_over_full_contact_increment": [
+        0.9987608929258724,
+        1.0005578045165824
+      ],
+      "median_contrast_over_bulk_sigma": 0.010475132367990036,
+      "max_contrast_over_bulk_sigma": 0.01177483680569472
+    }
+  },
+  "orthogonal_to_parallel_median_visibility_ratio": 3901032.6117244125,
+  "max_electrode_mismatch": 0.0013769735482596444,
+  "rows": [
+    {
+      "angle_deg": 0.0,
+      "frequency_over_f0": 0.1,
+      "contrast_re": -5.192146712573731e-10,
+      "contrast_im": -8.595805937698653e-10,
+      "contrast_over_full_contact_increment": 3.9793469893129146e-07,
+      "contrast_over_bulk_sigma": 5.026850356815828e-09,
+      "full_contact_increment_abs": 0.002523585965969396,
+      "electrode_mismatch": 0.0004329485295982809
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_over_f0": 0.31622777,
+      "contrast_re": -2.0120596855299766e-09,
+      "contrast_im": -1.0031679740368782e-10,
+      "contrast_over_full_contact_increment": 4.117966937346016e-07,
+      "contrast_over_bulk_sigma": 9.919147415205317e-09,
+      "full_contact_increment_abs": 0.004892120188468761,
+      "electrode_mismatch": 0.0007562380771702033
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_over_f0": 1.0,
+      "contrast_re": -3.7507233430211784e-10,
+      "contrast_im": 1.3638846059482734e-09,
+      "contrast_over_full_contact_increment": 2.563160557496066e-07,
+      "contrast_over_bulk_sigma": 6.867016058883804e-09,
+      "full_contact_increment_abs": 0.0055186466923738495,
+      "electrode_mismatch": 0.0010714157304353095
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_over_f0": 3.16227766,
+      "contrast_re": 3.333515130599096e-10,
+      "contrast_im": 2.844647180571397e-10,
+      "contrast_over_full_contact_increment": 8.372939916431585e-08,
+      "contrast_over_bulk_sigma": 2.1069301282577192e-09,
+      "full_contact_increment_abs": 0.005233855478530747,
+      "electrode_mismatch": 0.0013223594753379773
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_over_f0": 10.0,
+      "contrast_re": 1.634762325508632e-10,
+      "contrast_im": 1.8603312456049598e-10,
+      "contrast_over_full_contact_increment": 4.8235478987703324e-08,
+      "contrast_over_bulk_sigma": 1.187948017361329e-09,
+      "full_contact_increment_abs": 0.0051342830526875756,
+      "electrode_mismatch": 0.0013769735482596444
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_over_f0": 0.1,
+      "contrast_re": 0.0004053415412780814,
+      "contrast_im": 0.0009139847312458777,
+      "contrast_over_full_contact_increment": 0.9998972923877879,
+      "contrast_over_bulk_sigma": 0.0050237463995702,
+      "full_contact_increment_abs": 0.000999937614596107,
+      "electrode_mismatch": 0.00019779877419830996
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_over_f0": 0.31622777,
+      "contrast_re": 0.0016635894856827371,
+      "contrast_im": 0.0011703415434644036,
+      "contrast_over_full_contact_increment": 0.9999526099320252,
+      "contrast_over_bulk_sigma": 0.010140056812605403,
+      "full_contact_increment_abs": 0.002034114416709385,
+      "electrode_mismatch": 0.00022442335107565996
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_over_f0": 1.0,
+      "contrast_re": 0.0023644625573003564,
+      "contrast_im": 0.00034928339565748045,
+      "contrast_over_full_contact_increment": 1.0005578045165824,
+      "contrast_over_bulk_sigma": 0.01177483680569472,
+      "full_contact_increment_abs": 0.0023887892925287006,
+      "electrode_mismatch": 0.0003437768798187274
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_over_f0": 3.16227766,
+      "contrast_re": 0.0022113336731073296,
+      "contrast_im": 1.915988858508435e-06,
+      "contrast_over_full_contact_increment": 0.9995484608911184,
+      "contrast_over_bulk_sigma": 0.010792711034816273,
+      "full_contact_increment_abs": 0.0022123334582305402,
+      "electrode_mismatch": 0.0004603747476245218
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_over_f0": 10.0,
+      "contrast_re": 0.0021506009673353532,
+      "contrast_im": -9.185594019009424e-06,
+      "contrast_over_full_contact_increment": 0.9987608929258724,
+      "contrast_over_bulk_sigma": 0.010475132367990036,
+      "full_contact_increment_abs": 0.002153288739197024,
+      "electrode_mismatch": 0.00048530497608412866
+    }
+  ]
+}

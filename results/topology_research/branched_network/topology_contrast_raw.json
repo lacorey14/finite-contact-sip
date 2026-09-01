@@ -1,0 +1,96 @@
+{
+  "contacts": [
+    [
+      0,
+      1,
+      0.02
+    ],
+    [
+      1,
+      2,
+      0.02
+    ]
+  ],
+  "rows": [
+    {
+      "angle_deg": 0.0,
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.19975405316742106,
+      "sigma_im_S_m": 0.0026549952603077444,
+      "electrode_mismatch": 0.0004329485295982809
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.20306355282079713,
+      "sigma_im_S_m": 0.0037401267656890225,
+      "electrode_mismatch": 0.0007562380771702033
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.2059640950161215,
+      "sigma_im_S_m": 0.003088502583351415,
+      "electrode_mismatch": 0.0010714157304353095
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.2079864139521817,
+      "sigma_im_S_m": 0.001705461434144737,
+      "electrode_mismatch": 0.0013223594753379773
+    },
+    {
+      "angle_deg": 0.0,
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20847172257665053,
+      "sigma_im_S_m": 0.0006020134488800359,
+      "electrode_mismatch": 0.0013769735482596444
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_hz": 3.1830988618379066,
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.1986120457263239,
+      "sigma_im_S_m": 0.00040719754827256405,
+      "electrode_mismatch": 0.00019779877419830996
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_hz": 10.065842420897406,
+      "frequency_over_f0": 0.31622776601683794,
+      "sigma_re_S_m": 0.1989147601321174,
+      "sigma_im_S_m": 0.0012012079266125692,
+      "electrode_mismatch": 0.00022442335107565996
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_hz": 31.830988618379063,
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20060394339117496,
+      "sigma_im_S_m": 0.0022891329610016057,
+      "electrode_mismatch": 0.0003437768798187274
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_hz": 100.65842420897407,
+      "frequency_over_f0": 3.1622776601683795,
+      "sigma_re_S_m": 0.20267479141146438,
+      "sigma_im_S_m": 0.0014789736473118562,
+      "electrode_mismatch": 0.0004603747476245218
+    },
+    {
+      "angle_deg": 90.0,
+      "frequency_hz": 318.30988618379064,
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20315599079286137,
+      "sigma_im_S_m": 0.0005277146408150882,
+      "electrode_mismatch": 0.00048530497608412866
+    }
+  ]
+}

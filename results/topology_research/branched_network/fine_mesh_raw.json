@@ -1,0 +1,68 @@
+{
+  "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/four_particle_T_angle_90_fine_L75.msh",
+  "rows": [
+    {
+      "case_id": "disconnected",
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.1985966804995367,
+      "sigma_im_S_m": 0.0004190593628630812,
+      "electrode_mismatch": 3.32793997333671e-05
+    },
+    {
+      "case_id": "disconnected",
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20065789994188735,
+      "sigma_im_S_m": 0.002254210525801506,
+      "electrode_mismatch": 5.4846086836044536e-05
+    },
+    {
+      "case_id": "disconnected",
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20304757452308908,
+      "sigma_im_S_m": 0.0004890141838093192,
+      "electrode_mismatch": 7.381150035831446e-05
+    },
+    {
+      "case_id": "T_contact",
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.19900018359802854,
+      "sigma_im_S_m": 0.0013177934860372274,
+      "electrode_mismatch": 4.4990893521202565e-05
+    },
+    {
+      "case_id": "T_contact",
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20295531946048728,
+      "sigma_im_S_m": 0.0025842762194130744,
+      "electrode_mismatch": 0.00011403514124002804
+    },
+    {
+      "case_id": "T_contact",
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.20514954318036419,
+      "sigma_im_S_m": 0.00048407150836707346,
+      "electrode_mismatch": 0.00014643408397837577
+    },
+    {
+      "case_id": "horizontal_only",
+      "frequency_over_f0": 0.1,
+      "sigma_re_S_m": 0.19859675723708575,
+      "sigma_im_S_m": 0.0004191322270090164,
+      "electrode_mismatch": 3.328240760399329e-05
+    },
+    {
+      "case_id": "horizontal_only",
+      "frequency_over_f0": 1.0,
+      "sigma_re_S_m": 0.20065659318474366,
+      "sigma_im_S_m": 0.002254381582818526,
+      "electrode_mismatch": 5.502778035381359e-05
+    },
+    {
+      "case_id": "horizontal_only",
+      "frequency_over_f0": 10.0,
+      "sigma_re_S_m": 0.203050066907434,
+      "sigma_im_S_m": 0.0004899754253392113,
+      "electrode_mismatch": 7.423082950051786e-05
+    }
+  ]
+}

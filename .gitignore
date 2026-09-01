@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.mplconfig/
+meshes/*.msh
+results/**/Figure_*.tif
+results/**/Figure_*.tiff
+results/**/Figure_*.png
+results/**/Figure_*.pdf
+results/**/Figure_*.svg
+results/**/*.md
