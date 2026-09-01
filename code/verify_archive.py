@@ -6,7 +6,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "results" / "topology_research"
-FIGURES = ROOT / "figures"
 
 MAP = {
     1: (["Figure_1_finite_contact_dynamics_streamlined_v4_imagegen_a_colorbar"], [
@@ -53,18 +52,13 @@ MAP = {
 def main() -> None:
     missing = []
     for number, (stems, sources) in MAP.items():
-        for stem in stems:
-            for ext in ("png", "pdf", "svg"):
-                path = FIGURES / f"{stem}.{ext}"
-                if not path.is_file():
-                    missing.append(f"Figure {number}: {path.relative_to(ROOT)}")
         for source in sources:
             path = DATA / source
             if not path.is_file():
                 missing.append(f"Figure {number}: {path.relative_to(ROOT)}")
     if missing:
         raise SystemExit("Missing archive files:\n" + "\n".join(missing))
-    print("PASS: all eight adopted figures and mapped source-data files are present.")
+    print("PASS: source data for all eight manuscript figures are present.")
 
 
 if __name__ == "__main__":

@@ -3,7 +3,7 @@
 All quantitative panels are generated from archived numerical output. No
 values were digitized from plotted figures or entered manually.
 
-| Figure | Adopted figure file | Main source data | Generating script |
+| Figure | Manuscript figure stem | Main source data | Generating script |
 |---|---|---|---|
 | 1 | `Figure_1_finite_contact_dynamics_streamlined_v4_imagegen_a_colorbar` | `contact_phase_diagram/phase_diagram.json`; schematic asset `finite_contact_model_schematic_imagegen_v5_pore_matches_interface_font.png` | `plot_jgr_streamlined_figures.py` |
 | 2 | `Figure_2_contact_spectral_anatomy_streamlined_v3_one_row` | `contact_phase_diagram/phase_diagram.json` | `plot_jgr_streamlined_figures.py` |
@@ -14,13 +14,5 @@ values were digitized from plotted figures or entered manually.
 | 7 | `Figure_7_self_averaging_closure` | `rve_directional_scaling/raw_results.json`; `rve_directional_scaling/analysis.json` | `plot_jgr_added_key_figures.py` |
 | 8 | `Figure_8_micro_to_macro_schematic_v4` | `rve_directional_scaling/phase_summary.csv`; `rve_directional_scaling/fem_metrics.csv`; `rve_directional_scaling/fem_mesh_verification.json` | `plot_figure8_with_schematic_v4.py` |
 
-Paths above are relative to `results/topology_research/`. Frozen adopted figure
-files are provided in PNG, PDF, and SVG formats under `figures/`. Regeneration
-scripts write new files to their original paths under
-`results/topology_research/`.
-
-## Supporting Information
-
-The current Supporting Information contains Texts S1–S8 and Tables S1–S6, with
-no separate supplementary figures. Table values are derived from the archived
-verification and analysis files under `results/topology_research/`.
+Paths above are relative to `results/topology_research/`. Regeneration scripts
+write new files to their original paths under `results/topology_research/`.
