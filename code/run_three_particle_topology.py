@@ -14,7 +14,7 @@ from pathlib import Path
 import numpy as np
 
 from _paths import MESHES, RESULTS
-from analyze_passivation_spectra import log_peak_and_width
+from spectral_metrics import log_peak_and_width
 from electronic_components import contact_laplacian
 import run_scenario0 as rs
 
@@ -99,4 +99,3 @@ def main():
 
 
 if __name__=='__main__': main()
-

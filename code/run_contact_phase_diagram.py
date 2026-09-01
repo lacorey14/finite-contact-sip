@@ -12,7 +12,7 @@ import math
 import numpy as np
 
 from _paths import RESULTS
-from analyze_passivation_spectra import log_peak_and_width
+from spectral_metrics import log_peak_and_width
 from run_connectivity_spectra import prepare_case
 import run_scenario0 as rs
 
@@ -103,4 +103,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
