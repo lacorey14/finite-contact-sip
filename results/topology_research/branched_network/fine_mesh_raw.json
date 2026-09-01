@@ -1,5 +1,5 @@
 {
-  "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/four_particle_T_angle_90_fine_L75.msh",
+  "mesh": "meshes/four_particle_T_angle_90_fine_L75.msh",
   "rows": [
     {
       "case_id": "disconnected",

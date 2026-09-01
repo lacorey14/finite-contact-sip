@@ -12,7 +12,7 @@
       "sigma_re_S_m": 0.20662869566703096,
       "sigma_im_S_m": 0.0035369923452054264,
       "electrode_mismatch": 0.0003617496606011637,
-      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/irregular_ensemble_n00_a00_fine.msh"
+      "mesh": "meshes/irregular_ensemble_n00_a00_fine.msh"
     },
     {
       "network": 0,
@@ -22,7 +22,7 @@
       "sigma_re_S_m": 0.20450082601085692,
       "sigma_im_S_m": 0.003522253364870444,
       "electrode_mismatch": 0.0003115383805718362,
-      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/irregular_ensemble_n00_a00_fine.msh"
+      "mesh": "meshes/irregular_ensemble_n00_a00_fine.msh"
     },
     {
       "network": 0,
@@ -32,7 +32,7 @@
       "sigma_re_S_m": 0.20589773058803687,
       "sigma_im_S_m": 0.0038517934189907684,
       "electrode_mismatch": 0.0003351301403891234,
-      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/irregular_ensemble_n00_a90_fine.msh"
+      "mesh": "meshes/irregular_ensemble_n00_a90_fine.msh"
     },
     {
       "network": 0,
@@ -42,7 +42,7 @@
       "sigma_re_S_m": 0.20580420453842607,
       "sigma_im_S_m": 0.0038713463337211847,
       "electrode_mismatch": 0.0003341049102550617,
-      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/irregular_ensemble_n00_a90_fine.msh"
+      "mesh": "meshes/irregular_ensemble_n00_a90_fine.msh"
     },
     {
       "network": 5,
@@ -52,7 +52,7 @@
       "sigma_re_S_m": 0.2050632284901836,
       "sigma_im_S_m": 0.00318035301533246,
       "electrode_mismatch": 7.2490251467509e-05,
-      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/irregular_ensemble_n05_a00_fine.msh"
+      "mesh": "meshes/irregular_ensemble_n05_a00_fine.msh"
     },
     {
       "network": 5,
@@ -62,7 +62,7 @@
       "sigma_re_S_m": 0.20365371602607085,
       "sigma_im_S_m": 0.003161104332545652,
       "electrode_mismatch": 9.420516512910726e-05,
-      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/irregular_ensemble_n05_a00_fine.msh"
+      "mesh": "meshes/irregular_ensemble_n05_a00_fine.msh"
     },
     {
       "network": 5,
@@ -72,7 +72,7 @@
       "sigma_re_S_m": 0.20764216779815153,
       "sigma_im_S_m": 0.003919905589119173,
       "electrode_mismatch": 0.00031846117128246545,
-      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/irregular_ensemble_n05_a90_fine.msh"
+      "mesh": "meshes/irregular_ensemble_n05_a90_fine.msh"
     },
     {
       "network": 5,
@@ -82,7 +82,7 @@
       "sigma_re_S_m": 0.2076415781408827,
       "sigma_im_S_m": 0.00391714947735468,
       "electrode_mismatch": 0.00031619909373061704,
-      "mesh": "/Users/lihai/Library/CloudStorage/OneDrive-\u4e2a\u4eba/\u684c\u9762/Codex/IP_Simulation_Codex/SIP_Topology_FEM/meshes/irregular_ensemble_n05_a90_fine.msh"
+      "mesh": "meshes/irregular_ensemble_n05_a90_fine.msh"
     }
   ]
 }
