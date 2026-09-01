@@ -30,7 +30,7 @@ Gmsh 4.11 or newer must also be available on `PATH` for mesh generation.
 ## Reproduction levels
 
 1. **Figure regeneration:** use archived JSON/CSV outputs with the plotting
-   scripts listed in `manuscript/FIGURE_SOURCE_DATA_MAP.md`.
+   scripts listed in `REPRODUCIBILITY_MAP.md`.
 2. **Derived analysis:** rerun the relevant `analyze_*.py` scripts against the
    archived raw outputs.
 3. **Full recomputation:** rerun the `run_*.py` and `verify_*.py` scripts. This
@@ -59,7 +59,18 @@ python code/plot_jgr_topology_benchmark_main.py
 The exact source files and generating scripts for Figures 1–8 are listed in
 `REPRODUCIBILITY_MAP.md`.
 
+## Authors
+
+Hai Li, Ziteng Li, Zekai Deng, and Peng Yuan.
+
+## License
+
+Source code in `code/` is released under the MIT License (`LICENSE-CODE`).
+Numerical results and other reproducibility data in `results/` are released
+under CC BY 4.0 (`LICENSE-DATA`). Documentation follows CC BY 4.0 unless a file
+states otherwise.
+
 ## Citation and persistent archive
 
 A versioned Zenodo DOI and the final preferred citation will be added when the
-licence and repository metadata are frozen.
+repository record is published.
