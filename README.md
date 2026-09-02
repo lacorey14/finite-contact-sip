@@ -72,5 +72,12 @@ states otherwise.
 
 ## Citation and persistent archive
 
-A versioned Zenodo DOI and the final preferred citation will be added when the
-repository record is published.
+The archived release is available from Zenodo:
+https://doi.org/10.5281/zenodo.22227085
+
+Preferred citation:
+
+Li, H., Li, Z., Deng, Z., & Yuan, P. (2026). *Finite Electronic Contacts Link
+Contact-Mediated Relaxation to Scale-Dependent Directionality in Spectral
+Induced Polarization* (v1) [Software]. Zenodo.
+https://doi.org/10.5281/zenodo.22227085
