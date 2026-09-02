@@ -1,9 +1,9 @@
 # Finite electronic contacts in spectral induced polarization
 
 This repository contains the numerical code, archived outputs, and figure
-reproduction files supporting the manuscript **“Finite Electronic Contacts Link
-Contact-Mediated Relaxation to Scale-Dependent Directionality in Spectral
-Induced Polarization.”**
+reproduction files supporting the manuscript **“Finite Electronic Contacts in
+Spectral Induced Polarization: Relaxation, Directionality, and Scale
+Dependence.”**
 
 ## Repository contents
 
@@ -77,7 +77,7 @@ https://doi.org/10.5281/zenodo.22227085
 
 Preferred citation:
 
-Li, H., Li, Z., Deng, Z., & Yuan, P. (2026). *Finite Electronic Contacts Link
-Contact-Mediated Relaxation to Scale-Dependent Directionality in Spectral
-Induced Polarization* (v1) [Software]. Zenodo.
+Li, H., Li, Z., Deng, Z., & Yuan, P. (2026). *Finite Electronic Contacts in
+Spectral Induced Polarization: Relaxation, Directionality, and Scale Dependence*
+(v1) [Software]. Zenodo.
 https://doi.org/10.5281/zenodo.22227085
